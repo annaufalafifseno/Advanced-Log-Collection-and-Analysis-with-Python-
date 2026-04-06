@@ -74,11 +74,11 @@ Using matplotlib to:
 a. Visualize log distributions
 b. Identify patterns visually
 
-Scientific value:
+**Scientific value:**
 Visualization supports:
-i.   Rapid interpretation
-ii.  Data-driven decision-making
-iii. Expected Outcomes
+1. Rapid interpretation
+2. Data-driven decision-making
+3. Expected Outcomes
 
 After completing this practicum, students are expected to:
 
