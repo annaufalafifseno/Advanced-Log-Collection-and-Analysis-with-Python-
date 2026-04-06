@@ -1,0 +1,5 @@
+2026-04-06 08:27:32,978 - CustomLogger - DEBUG - Debug message for troubleshooting
+2026-04-06 08:27:32,979 - CustomLogger - INFO - Info message for system events
+2026-04-06 08:27:32,979 - CustomLogger - WARNING - Warning: Disk space is running low
+2026-04-06 08:27:32,979 - CustomLogger - ERROR - Error encountered while connecting to the database
+2026-04-06 08:27:32,979 - CustomLogger - CRITICAL - Critical: System shutdown initiated due to overheating

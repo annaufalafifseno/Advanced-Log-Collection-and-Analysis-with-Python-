@@ -1,0 +1,17 @@
+[
+    {
+        "timestamp": "2026-04-06 08:31:36.005614",
+        "level": "INFO",
+        "message": "User login successful"
+    },
+    {
+        "timestamp": "2026-04-06 08:31:36.006330",
+        "level": "WARNING",
+        "message": "Failed login attempt"
+    },
+    {
+        "timestamp": "2026-04-06 08:31:36.006333",
+        "level": "ERROR",
+        "message": "Database connection timeout"
+    }
+]
