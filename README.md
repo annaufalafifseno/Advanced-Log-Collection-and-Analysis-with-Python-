@@ -83,6 +83,7 @@ iii. Expected Outcomes
 After completing this practicum, students are expected to:
 
 Understand the complete log pipeline:
+
 a. Generate → Parse → Analyze → Visualize
 b. Identify system activity patterns from logs
 c. Detect potential anomalies based on log distributions
