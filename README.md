@@ -38,5 +38,5 @@ b. Anomalies (e.g., spikes in errors)
 c. Indicators of attacks (e.g., brute-force attempts)
 
 **Scientific Conclusion**
-This practicum demonstrates that Python is a highly effective tool for managing the end-to-end lifecycle of logs, from generation to analysis. By integrating parsing techniques and data analysis, logs that initially exist as raw data can be transformed into valuable insights for threat detection and decision-making in security systems.
+: This practicum demonstrates that Python is a highly effective tool for managing the end-to-end lifecycle of logs, from generation to analysis. By integrating parsing techniques and data analysis, logs that initially exist as raw data can be transformed into valuable insights for threat detection and decision-making in security systems.
 This approach serves as a foundational step toward more advanced implementations such as SIEM systems and AI-based intrusion detection systems, supporting the broader paradigm of data-driven cybersecurity.
