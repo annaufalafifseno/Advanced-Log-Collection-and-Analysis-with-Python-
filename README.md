@@ -17,21 +17,22 @@ b. Forensic analysis
 c. Compliance auditing
 
 2. Log Collection and Centralization
-Log collection is the process of aggregating data from multiple sources into a centralized system. This concept forms the foundation of SIEM systems, enabling:
+Log collection is the process of aggregating data from multiple sources into a centralized system.
+This concept forms the foundation of SIEM systems, enabling:
 a. Cross-log correlation
 b. Pattern detection across systems
 c. Real-time monitoring
 
-3. Structured vs. Unstructured Logs
+4. Structured vs. Unstructured Logs
 Structured logs (JSON): Easily machine-readable with consistent formatting.
 Unstructured logs (plain text): More flexible but require complex parsing techniques.
 
-4. Log Parsing
+5. Log Parsing
 Parsing is the process of extracting meaningful information from logs using techniques such as:
 a. Regular Expressions (regex) for unstructured text
 b. JSON parsing for structured data
 
-5. Log Analysis
+6. Log Analysis
 Log analysis aims to identify:
 a. Normal activity patterns
 b. Anomalies (e.g., spikes in errors)
